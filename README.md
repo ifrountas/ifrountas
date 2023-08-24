@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Iakovos, a full stack software developer from Greece :greece: &nbsp;
+I'm Iakovos, a full stack software developer from Greece :greece: specialized on building things with WordPress&nbsp;
 
 I am a contributor to Open Source projects and WordCamp Organiser.  
 I also love Running, Food, Video Games and Food. ( I know.. )
